@@ -67,7 +67,7 @@ class AboutUs extends Component {
                     style={{ padding: "5px 18% 20px 18%", zIndex: "2", "textAlign": "justify" }}
                 >
                     {
-                        "Sign up for membership (2023-2024): "
+                        "Sign up for Membership (2026-2027): "
                     }
 
                     <a className="AboutUsSmallScreen" href="https://www.glasgowunisrc.org/organisation/7921/ " style={{textDecoration: "none",}}>
@@ -104,7 +104,7 @@ class AboutUs extends Component {
                             <AboutItem
                                 img="images/EventBeer.svg"
                                 title="Pub Crawls"
-                                body="We regularly hold pub crawls where you can meet up and socialise with like minded people."
+                                body="We regularly hold pub crawls where you can meet up and socialise with like minded people. Join us for the scavenger hunt on the 6th of October!"
                                 imgWidth="30px"
                             />
                         </Grid>
@@ -112,7 +112,7 @@ class AboutUs extends Component {
                             <AboutItem
                                 img="images/EventMicrophone.svg"
                                 title="7 Minutes of Science"
-                                body="Once a year we bring together a variety of scientists to present their research - in just 7 minutes."
+                                body="Once a year we bring together a variety of scientists to present their research - in just 7 minutes!"
                                 imgWidth="30px"
                             />
                         </Grid>
@@ -120,7 +120,7 @@ class AboutUs extends Component {
                             <AboutItem
                                 img="images/EventSolarSystem2.svg"
                                 title="Team up with other societies"
-                                body="We team up with astrosoc and other societies for quiz nights, pub crawls and a variety of other events."
+                                body="We team up with Astrosoc and other societies for quiz nights, pub crawls and a variety of other events."
                                 imgWidth="50px"
                             />
                         </Grid>

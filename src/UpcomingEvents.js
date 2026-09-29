@@ -19,29 +19,59 @@ class UpcomingEvents extends Component {
 
 
         <EventItem
-                    img="images/RedQuark3.svg"
-                    date="Tuesday 13/02 - 6pm"
-                    title="Guest Lecture: We need to talk about Kelvin!"
-                    location="St. Andrews Building 234"
-                    body="2024 marks 200 years since the birth of William Thomson, better known as Lord Kelvin: renowned scientist, mathematician and engineer who was Professor of Natural Philosophy (what we nowadays call Physics) at the University of Glasgow for more than 50 years.  Lord Kelvin was one of the most influential scientific figures of the nineteenth century – not just because of his research, but as a pioneer of turning fundamental science into commercial innovation and in laying the foundations for how we teach science today. Join Martin Hendry for a whistle-stop tour through some of Lord Kelvin’s greatest discoveries (and his biggest mistakes) as he explores how Kelvin’s scientific legacy lives on – in everything from fridges to magnets (and even fridge magnets!) and much more in besides."
+                    img="images/EventLecture.svg"
+                    date="TBA"
+                    title="Guest Lecture: TBA"
+                    location="Location: TBA"
+                    body="Details: TBA."
                 />
 
         <EventItem
-                    img="images/RedQuark3.svg"
-                    date="20/02 - 6:30pm"
+                    img="images/EventMicrophone.svg"
+                    date="TBA"
                     title="7 Minutes of Science"
-                    location="Kelvin Building 257"
+                    location="TBA"
                     body="Join us for a conference-style event to hear about the exciting research being done in the various departments of our university!"
                 />
 
         <EventItem
-                    img="images/RedQuark3.svg"
-                    date="31/03 - 6:30pm"
+                    img="images/EventWine.svg"
+                    date="TBA"
                     title="Science Ball"
                     location="DoubleTree by Hilton Glasgow Central"
                     body="Our annual ball for all GU Scientists, including a 3 course meal, ceilidh band and a photobooth!"
                 />
 
+        <EventItem
+                    img="images/EventBeer.svg"
+                    date="Tuesday 6th October @ 6:45 PM"
+                    title="Scavenger Hunt"
+                    location="Kitty's Pub"
+                    body="Teams will visit each of four pubs and complete its challenge before moving on to the next. The winner of this challenge will get a prize!"
+                  />
+
+        <EventItem
+                    img="images/EventBeer.svg"
+                    date="Saturday 24th October, Time TBA"
+                    title="Escape Room"
+                    location="St Enoch Escape Room"
+                    body="TBA"
+                  />
+
+        <EventItem
+                    img="images/EventMicrophone.svg"
+                    date="Thursday 5th November, Time TBA"
+                    title="Ceilidh"
+                    location="Glasgow University Union"
+                    body="TBA"
+                  />"
+        <EventItem
+                    img="images/EventLecture.svg"
+                    date="Thursday 26th October @ 5:30 PM"
+                    title="Python and LATEX Tutorial"
+                    location="Kelvin Building Computer Cluster"
+                    body="Are labs stressing you out? Do you feel like you need some help with coding? Unfortunately, you've missed our coding workshop for this semester - but don't worry! We've prepared some (hopefully) helpful material to guide you through the chaos, answer common questions, and boost your confidence. Check it out"
+                  />
         </div>
     );
   }
