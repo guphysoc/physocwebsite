@@ -60,7 +60,7 @@ class UpcomingEvents extends Component {
 
         <EventItem
                     img="images/EventMicrophone.svg"
-                    date="Thursday 5th November, Time TBA"
+                    date="Thursday 5th November, Time 7:00 PM"
                     title="Ceilidh"
                     location="Glasgow University Union"
                     body="TBA"
@@ -74,7 +74,6 @@ class UpcomingEvents extends Component {
                   />
                   <a 
                    href="https://www.guphysoc.info/Python_Work_2026.zip"
-                   download="Python_Work_2026.zip"
                   >
                   Download Python Workshop Materials
                   </a>
