@@ -74,10 +74,10 @@ class UpcomingEvents extends Component {
                   />
                   <a 
                    href={'${process.env.PUBLIC_URL}public/Python_Work_2026.zip'} 
-                   download
+                   download="Python_Work_2026.zip"
                   >
-                    Download Python Workshop Materials
-                    </a>
+                  Download Python Workshop Materials
+                  </a>
         </div>
     );
   }
