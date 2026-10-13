@@ -21,7 +21,7 @@ class OurCommittee extends Component {
                 ["Publicity Officer", "Murad Aldabbagh"],
                 ["Welfare Officer", "Teoman Thierry"],
                 ["Second Year Rep", "Daniel Clarkson"],
-                ["First Year Rep", "This could be you!"],
+                ["First Year Rep", "Amelie Harrison"],
                 ["OCM", "Becca Richardson"],
 
             ]
