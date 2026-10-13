@@ -64,14 +64,20 @@ class UpcomingEvents extends Component {
                     title="Ceilidh"
                     location="Glasgow University Union"
                     body="TBA"
-                  />"
+                  />
         <EventItem
                     img="images/EventLecture.svg"
                     date="Thursday 26th October @ 5:30 PM"
                     title="Python and LATEX Tutorial"
                     location="Kelvin Building Computer Cluster"
-                    body="Are labs stressing you out? Do you feel like you need some help with coding? Unfortunately, you've missed our coding workshop for this semester - but don't worry! We've prepared some (hopefully) helpful material to guide you through the chaos, answer common questions, and boost your confidence. Check it out"
+                    body="Are labs stressing you out? Do you feel like you need some help with coding? Unfortunately, you've missed our coding workshop for this semester - but don't worry! We've prepared some (hopefully) helpful material to guide you through the chaos, answer common questions, and boost your confidence. Check it out" 
                   />
+                  <a 
+                   href={'${process.env."PythonTutorial"}/Python_Work_2026.zip'} 
+                   download
+                  >
+                    Download Python Workshop Materials
+                    </a>
         </div>
     );
   }
