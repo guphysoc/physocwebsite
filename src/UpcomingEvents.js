@@ -73,7 +73,7 @@ class UpcomingEvents extends Component {
                     body="Are labs stressing you out? Do you feel like you need some help with coding? Unfortunately, you've missed our coding workshop for this semester - but don't worry! We've prepared some (hopefully) helpful material to guide you through the chaos, answer common questions, and boost your confidence. Check it out" 
                   />
                   <a 
-                   href={'${process.env.PUBLIC_URL}public/Python_Work_2026.zip'} 
+                   href="https://www.guphysoc.info/Python_Work_2026.zip"
                    download="Python_Work_2026.zip"
                   >
                   Download Python Workshop Materials
