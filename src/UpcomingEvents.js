@@ -23,20 +23,12 @@ class UpcomingEvents extends Component {
                     date="TBA"
                     title="Guest Lecture: TBA"
                     location="Location: TBA"
-                    body="Details: TBA."
-                />
-
-        <EventItem
-                    img="images/EventMicrophone.svg"
-                    date="TBA"
-                    title="7 Minutes of Science"
-                    location="TBA"
-                    body="Join us for a conference-style event to hear about the exciting research being done in the various departments of our university!"
+                    body="Details: We host guest lectures throughout the year, tune in for more info soon!"
                 />
 
         <EventItem
                     img="images/EventWine.svg"
-                    date="TBA"
+                    date="March 27th"
                     title="Science Ball"
                     location="DoubleTree by Hilton Glasgow Central"
                     body="Our annual ball for all GU Scientists, including a 3 course meal, ceilidh band and a photobooth!"
@@ -44,39 +36,33 @@ class UpcomingEvents extends Component {
 
         <EventItem
                     img="images/EventBeer.svg"
-                    date="Tuesday 6th October @ 6:45 PM"
-                    title="Scavenger Hunt"
-                    location="Kitty's Pub"
-                    body="Teams will visit each of four pubs and complete its challenge before moving on to the next. The winner of this challenge will get a prize!"
+                    date="Thursday 12th November @ 7:30 PM"
+                    title="Arcade Social"
+                    location="NQ64 Bar"
+                    body="Come along to play fun arcade games from the past!"
                   />
 
-        <EventItem
-                    img="images/EventBeer.svg"
-                    date="Saturday 24th October, Time TBA"
-                    title="Escape Room"
-                    location="St Enoch Escape Room"
-                    body="TBA"
-                  />
-
-        <EventItem
-                    img="images/EventMicrophone.svg"
-                    date="Thursday 5th November, Time 7:00 PM"
-                    title="Ceilidh"
-                    location="Glasgow University Union"
-                    body="TBA"
-                  />
         <EventItem
                     img="images/EventLecture.svg"
-                    date="Thursday 26th October @ 5:30 PM"
-                    title="Python and LATEX Tutorial"
-                    location="Kelvin Building Computer Cluster"
-                    body="Are labs stressing you out? Do you feel like you need some help with coding? Unfortunately, you've missed our coding workshop for this semester - but don't worry! We've prepared some (hopefully) helpful material to guide you through the chaos, answer common questions, and boost your confidence. Check it out" 
-                  />
-                  <a 
-                   href="https://www.guphysoc.info/Python_Work_2026.zip"
-                  >
-                  Download Python Workshop Materials
-                  </a>
+                    date="Friday 20th November, Tuesday 1st December @ 1:00 PM"
+                    title="Study Session"
+                    location="TBA"
+                    body="Want help with studying? Come along to our study sessions and get help from other students. Work on problems together, and get free biscuits and tea!"
+        />
+        <EventItem
+                    img="images/EventLecture.svg"
+                    date="Thursday 26th November @ 4:00 PM"
+                    title="Internship Talk"
+                    location="TBA"
+                    body="Join our panel of current and former PhD students as they share practical tips, application strategies, and lessons learned from securing industry experience."
+        />
+        <EventItem
+                    img="images/EventBeer.svg"
+                    date="Thursday 3rd December @ 6:30 PM"
+                    title="Karaoke Night"
+                    location="Record Factory"
+                    body="Sing us a song, you're the piano man!"
+        />
         </div>
     );
   }
